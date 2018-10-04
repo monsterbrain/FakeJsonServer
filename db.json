@@ -11,5 +11,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "hospitals": [
+    { "name":"Fakih IVF", "address":"Sheikh Zayed Grand Mosque" },
+    { "name":"Ahalia Hospital", "address":"Ferrari world abudhabhi" },
+    { "name":"Abudhabhi Dental Clinic", "address":"Emirates Palace" },
+    { "name":"Abudhabhi Medical Central", "address":"Qasar fort" },
+    { "name":"Ahmed mustafa Dental Clinic", "address":"Al Ain"  }
+  ]
 }
