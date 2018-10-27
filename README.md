@@ -5,3 +5,6 @@ A Test Fake Json Server to test JSON stuffs
 
 ## json Calls
 [/cities](https://my-json-server.typicode.com/monsterbrain/FakeJsonServer/cities)
+
+[/comments](https://my-json-server.typicode.com/monsterbrain/FakeJsonServer/comments)
+
