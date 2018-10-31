@@ -9,9 +9,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "hospitals": [
     { "name":"Fakih IVF", "address":"Sheikh Zayed Grand Mosque" },
     { "name":"Ahalia Hospital", "address":"Ferrari world abudhabhi" },
