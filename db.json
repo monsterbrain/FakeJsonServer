@@ -5,10 +5,6 @@
     { "name":"Sharjah" },
     { "name":"Al Ain" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "hospitals": [
     { "name":"Fakih IVF", "address":"Sheikh Zayed Grand Mosque" },
     { "name":"Ahalia Hospital", "address":"Ferrari world abudhabhi" },
@@ -23,10 +19,7 @@
     { "name": "Adrian",    "email": "adrian@email.com",    "age": 21, "country": "Ecuador" },
     { "name": "Wladimir",  "email": "wladimir@email.com",  "age": 30, "country": "Ecuador" },
     { "name": "Samantha",  "email": "samantha@email.com",  "age": 30, "country": "United States" },
-    { "name": "Nicole",    "email": "nicole@email.com",    "age": 43, "country": "Colombia" },
-    { "name": "Natasha",   "email": "natasha@email.com",   "age": 54, "country": "Ecuador" },
-    { "name": "Michael",   "email": "michael@email.com",   "age": 15, "country": "Colombia" },
-    { "name": "Nicolás",   "email": "nicolas@email.com",    "age": 43, "country": "Colombia" }
+    { "name": "Nicole",    "email": "nicole@email.com",    "age": 43, "country": "Colombia" }
   ],
   "testProducts":[
     {"prodID":223,"itemCode":"14109143","prodName":"STERILISATION INDICATOR TAPE BLUE 25MM: 3FKLB410808"},
