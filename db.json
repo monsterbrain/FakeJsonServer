@@ -20,16 +20,5 @@
     { "name": "Wladimir",  "email": "wladimir@email.com",  "age": 30, "country": "Ecuador" },
     { "name": "Samantha",  "email": "samantha@email.com",  "age": 30, "country": "United States" },
     { "name": "Nicole",    "email": "nicole@email.com",    "age": 43, "country": "Colombia" }
-  ],
-  "testProducts":[
-    {"prodID":223,"itemCode":"14109143","prodName":"STERILISATION INDICATOR TAPE BLUE 25MM: 3FKLB410808"},
-    {"prodID":224,"itemCode":"14109144","prodName":"STERILISATION INDICATOR TAPE WHITE 19MM: 3FKLB410802"},
-    {"prodID":225,"itemCode":"14109145","prodName":"STERILISATION INDICATOR TAPE WHITE 25MM: 3FKLB410804"},
-    {"prodID":4194,"itemCode":"36221100","prodName":"STERILIZATION CASSETES 99-3-LARGE"},
-    {"prodID":4195,"itemCode":"36221101","prodName":"STERILIZATION CASSETS 99-1-SMALL"},
-    {"prodID":4196,"itemCode":"36221102","prodName":"STERILIZATION CASSETS 99-2"},
-    {"prodID":4197,"itemCode":"36221103","prodName":"STERILIZATION CASSETTE WITH ACCESSORY AREA 1 ½ X 7 ½ X 11 ¼"},
-    {"prodID":4198,"itemCode":"36221104","prodName":"STERILIZATION CASSETTE WITH ACCESSORY AREA 11 ¼ X 7 ¼ X 1 ¼"},
-    {"prodID":5409,"itemCode":"45161103","prodName":"STERILIZATION DRUM SMALL 781-485"}
   ]
 }
