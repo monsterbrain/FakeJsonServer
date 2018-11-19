@@ -6,11 +6,11 @@
     { "name":"Al Ain" }
   ],
   "hospitals": [
-    { "name":"Fakih IVF", "address":"Sheikh Zayed Grand Mosque" },
-    { "name":"Ahalia Hospital", "address":"Ferrari world abudhabhi" },
-    { "name":"Abudhabhi Dental Clinic", "address":"Emirates Palace" },
-    { "name":"Abudhabhi Medical Central", "address":"Qasar fort" },
-    { "name":"Ahmed mustafa Dental Clinic", "address":"Al Ain"  }
+    { "id": 1, "name":"Fakih IVF", "address":"Sheikh Zayed Grand Mosque" },
+    { "id": 2, "name":"Ahalia Hospital", "address":"Ferrari world abudhabhi" },
+    { "id": 3, "name":"Abudhabhi Dental Clinic", "address":"Emirates Palace" },
+    { "id": 4, "name":"Abudhabhi Medical Central", "address":"Qasar fort" },
+    { "id": 5, "name":"Ahmed mustafa Dental Clinic", "address":"Al Ain"  }
   ],
   "peoples":[
     { "name": "Adam",      "email": "adam@email.com",      "age": 12, "country": "United States" },
